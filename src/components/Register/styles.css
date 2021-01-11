@@ -1,0 +1,49 @@
+/* .container{
+    height:400px;
+} */
+
+.con{
+    height:500px;
+    margin-top:50px;
+}
+.tex{
+    margin-left:0;
+}
+
+#standard-required{
+    margin-bottom:0;
+}
+
+#standard-password-input{
+    margin-bottom:0;
+}
+
+.MuiFormControl-root{
+    width:100%;
+}
+
+.bt{
+    margin-top:30px;
+}
+
+.mar1{
+    margin-top:50px;
+}
+.mar2{
+    margin-top:25px;
+}
+
+.parallax-container{
+    height:500px;
+}
+@media screen and (max-width: 962px) {
+   .parallax-container{
+    height:700px;
+  }
+  .con{
+      height:700px;
+  }
+  .mar1{
+      margin-top:100px;
+  }
+}

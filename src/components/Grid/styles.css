@@ -1,0 +1,74 @@
+.card-content{
+    height: 100px;
+}
+.carousel{
+    margin:0;
+    padding:0;
+    height:500px;
+    perspective:250px;
+}
+.carousel .carousel-item{
+    width:200px;
+    margin-top:auto;
+}
+
+.carousel .carousel-item img{
+    width:100%;
+}
+
+small{
+    display:flex;
+    justify-content:center;
+
+}
+
+.material-icons{
+    display: inline-flex;
+    vertical-align: top;
+}
+
+.enrol{
+    margin-top:0;
+}
+
+.halfway-fab{
+    width:75px;
+}
+.modal-trigger{
+    margin-right:0;
+}
+
+.modal-footer{
+    align-items: center;
+    display:flex;
+    justify-content:center;
+    margin-top:25px;
+}
+
+.slide{
+    max-width: 1100px;
+    display: flex;
+}
+.wrapper{
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.carousel{
+  max-width: 1200px;
+  margin: auto;
+  padding: 0 30px;
+}
+
+.carousel .carw{
+    margin: 20px 0;
+  line-height: 250px;
+  font-size: 90px;
+  font-weight: 600;
+  border-radius: 10px;
+  box-shadow: 0px 4px 15px rgba(0,0,0,0.2);
+}
+h2{
+    margin-left:10%;
+}
