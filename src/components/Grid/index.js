@@ -21,7 +21,7 @@ function dev(Data,category) {
             <div>
             <div class="card modal-trigger" data-target={`${Data.Name}`} style={{height:"400px",width:"350px"}}>
                 <div class="card-image">
-                    <img src={`/react-compe/images/${Data.Image}.jpeg`} alt="" style={{height:"200px"}} />
+                    <img src={`https://sanjaysunil34.github.io/react-compe/images/${Data.Image}.jpeg`} alt="" style={{height:"200px"}} />
                     <a class="halfway-fab btn-floating pink pulse">
                         <div class="small">{Data.Rating}   <i class="material-icons">star</i></div>
                     </a>
